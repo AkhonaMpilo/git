@@ -1,0 +1,31 @@
+body{
+    background-image: url(/home/quirky30/Desktop/mental-physical-requirements-netball-players-twitter.jpg);
+    background-size: cover;
+    background-color: lightblue;
+    color:white;
+    font-family: verdana;
+    text-align: top center;
+    font-size: 20px;
+}
+
+h1{
+  font-size: 20px;
+  font-family: sans-serif;
+
+}
+li a: hover{
+  color: white;
+}
+
+body nav ul li {
+          
+          font-family: sans-serif;
+          font-weight: all;
+          font-size: 19px; 
+          display: inline;
+          padding: 2px;
+          background-color: pink;
+          color: white;
+          text-decoration: none;
+          margin: 7px;
+}
